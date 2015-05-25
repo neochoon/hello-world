@@ -1,7 +1,3 @@
 # hello-world
-====================
 
-Hi humans!
-
-hubot here, I like Node.js and coffeescript
-Whatever
+This is hello-world for everyone
